@@ -1,5 +1,5 @@
 /**
-* Pattern Validators
+* Rectangle Validator
 * https://github.com/DevTeamHub/rectangle-validator
 * (c) 2016 Dev Team Inc. http://dev-team.com
 * License: MIT
