@@ -1,0 +1,22 @@
+{
+  "name": "rectangle-validator",
+  "authors": [
+    "Dev Team Inc."
+  ],
+  "description": "AngulaJS rectangle validator",
+  "main": "dist/rectangle-validator.js",
+  "keywords": [
+    "angularJS",
+    "rectangle",
+    "validator"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/DevTeamHub/rectangle-validator",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/DevTeamHub/rectangle-validator"
+  },
+   "dependencies": {
+    "angular": ">=1.3.0-beta.10"
+  }
+}
